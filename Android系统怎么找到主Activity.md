@@ -14,3 +14,12 @@
 7.系统通过调用主Activity的onCreate方法来创建它的实例，然后依次调用onStart和onResume方法，使得Activity进入运行态，显示在屏幕上供用户交互
 
 8.最终用户看到的主Activity界面，表示应用成功启动
+
+
+
+
+
+
+
+
+
